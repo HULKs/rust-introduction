@@ -291,7 +291,7 @@
     - ```rust fn black() -> Self```
     - ```rust fn new(red: f64, green: f64, blue: f64) -> Self```
   + Add ```rust fn is_red(self) -> bool``` to ```rust impl PixelColor```
-  + Create two variables ```rust red_pixel``` and ```rust black_pixel```
+  + Create two variables ```rust black_pixel``` and ```rust red_pixel```
   + Use ```rust pixel.is_red()``` instead of ```rust is_red()```
   + Fix all warnings by cleaning up your code
 ]
