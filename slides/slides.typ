@@ -732,10 +732,10 @@
   - Additional material
     - https://doc.rust-lang.org/book/
     - https://doc.rust-lang.org/rust-by-example/
+    - https://rustlings.cool/
     - https://crates.io
     - https://docs.rs
     - https://lib.rs
-    - https://rustlings.cool/
 ]
 
 #slide(title: "Feedback")[

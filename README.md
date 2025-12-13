@@ -20,6 +20,23 @@ Familiarity with other programming languages will be beneficial but is not manda
 
 ## Things to improve / TODOs
 
+### 2025
+
+- Noticed while presenting
+    - `let` wasn't introduced before task 1
+    - introduce Formatter early
+    - Task 4.3 prints the error twice. Once explicitly and once by returning at Err value from main
+    - Task 5.4 not necessary for 5.5
+    - for loops were not introduced
+    - explain TDD before testing task
+- Feedback
+    - continue: good Betreuungsschlüssel
+    - start: quizzes/questions
+    - continue: social interaction during break
+    - stop: refer less to other programming languages. Bad for people without any programming experience
+    - start: show practical examples, maybe show some of our code at the end
+    - continue: all the tasks were somehow connected
+
 ### 2024
 
 - more additional and optional tasks
